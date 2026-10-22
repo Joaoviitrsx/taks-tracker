@@ -1,0 +1,10 @@
+# Dependências (se vier a usar no futuro)
+node_modules/
+
+# Arquivos de estado e dados locais da CLI
+tasks.json
+
+# Logs e arquivos de ambiente do sistema
+*.log
+.DS_Store
+.env
